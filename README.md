@@ -7,3 +7,8 @@ Some of the projects in this repository are projects from other people on the In
 ## Run
 
 See the README.md file under each project for details.
+
+## Project List
+
+1. web-server: A simple http server
+2. webcam-live: Developing a basic web cam with webassembly
